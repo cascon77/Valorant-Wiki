@@ -8,7 +8,7 @@ class ModelPlayerCards {
   String displayIcon;
   String smallArt;
   String wideArt;
-  String largeArt;
+  String? largeArt;
   String assetPath;
 
   ModelPlayerCards({

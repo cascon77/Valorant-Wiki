@@ -111,6 +111,7 @@ class ServicesValorantApi {
     if (response.statusCode == 200) {
       var modelplayerCards =
           ModelResultadoTarjetasDeJugador.fromRawJson(response.body);
+      print("aaa");
       return modelplayerCards.playerCards;
     } else {
       return [];

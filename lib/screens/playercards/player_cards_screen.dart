@@ -98,7 +98,7 @@ class _PlayerCardsScreenState extends State<PlayerCardsScreen> {
 
                 return MiCard(
                     imagenIcon: playercard.displayIcon,
-                    imagenDisplay: playercard.largeArt,
+                    imagenDisplay: playercard?.largeArt ?? playercard.wideArt,
                     nombre: playercard.displayName);
               },
             );
