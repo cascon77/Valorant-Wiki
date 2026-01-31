@@ -48,7 +48,8 @@ A continuación se muestra una guía rápida para desarrollar y ejecutar las pie
 1. Clonar el repositorio:
 
 ```bash  
-git clone <URL_DEL_REPOSITORIO>cd valorant_wiki
+git clone https://github.com/cascon77/Valorant-Wiki.git
+cd valorant_wiki
 ```  
 
 2. Frontend (Flutter):
