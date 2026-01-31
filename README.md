@@ -1,6 +1,6 @@
 # Valorant Wiki
 
-Una aplicación tipo wiki para Valorant que consolida información de múltiples fuentes: llamadas a una API y webscraping de notas de parches oficiales para mantener un historial de cambios, datos de agentes, mapas, armas y otros elementos del juego.
+Una aplicación tipo wiki para Valorant, desarrollada principalmente para Android, que consolida información de múltiples fuentes: mediante llamadas a una API y web scraping de notas de parches oficiales, con el fin de mantener un historial de cambios, así como datos sobre agentes, mapas, armas y otros elementos del juego.
 
 ## Contenidos
 - [Descripción](#descripción)
