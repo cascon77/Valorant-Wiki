@@ -10,7 +10,7 @@ class MaterialWikiValorant extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       routes: RoutesValorant.getRoutes(),
       initialRoute: RoutesValorant.home,
-      theme: ThemeData.light().copyWith(
+      theme: ThemeData.dark().copyWith(
           appBarTheme: AppBarTheme(
               backgroundColor: Colors.indigo,
               foregroundColor: Colors.white,
